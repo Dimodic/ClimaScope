@@ -8,10 +8,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-EB6E4B?logo=openweathermap&logoColor=white)
 
-## Описание
-
-Приложение **ClimaScope** позволяет детально анализировать температурные данные, выявлять сезонные закономерности и аномалии, а также отслеживать текущую погоду при помощи OpenWeatherMap API.
-
 ## Основной функционал
 
 ### Анализ исторических данных
