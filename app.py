@@ -37,6 +37,8 @@ else:
     else:
         df = generate_data.generate_temperature_data(default_filepath)
 
+df['timestamp'] = pd.to_datetime(df['timestamp'])
+
 
 # --- Боковая панель: Выбор города ---
 cities = df['city'].unique().tolist()
